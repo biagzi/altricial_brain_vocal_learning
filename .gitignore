@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 
 data/derivatives_with_error.pkl
+figs/*
+
