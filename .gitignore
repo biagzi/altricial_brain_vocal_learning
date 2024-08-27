@@ -162,3 +162,5 @@ cython_debug/
 data/derivatives_with_error.pkl
 figs/*
 
+code/Fig3 copy.ipynb
+code/waddington.ipynb
