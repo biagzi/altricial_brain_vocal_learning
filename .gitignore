@@ -165,3 +165,5 @@ figs/*
 code/Fig3 copy.ipynb
 code/waddington.ipynb
 code/Fig2B_and_2C copy.ipynb
+data/derivatives_absolute_values.pkl
+data/derivatives_with_error_absolute_values.pkl
